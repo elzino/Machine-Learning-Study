@@ -9,4 +9,4 @@ Machine Learning
 
 ### Composition
 1. Assignment Code
-2. Note taking in Korean
+2. [Note taking in Korean](https://github.com/elzino/Machine-Learning-Study/tree/master/note%20taking)
