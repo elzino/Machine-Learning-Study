@@ -7,6 +7,6 @@ Machine Learning
 -  Stanford University
 -  Prof. Andrew Ng
 
-### Composition
+### Contents
 1. Assignment Code
 2. [Note taking in Korean](https://github.com/elzino/Machine-Learning-Study/tree/master/note%20taking)
